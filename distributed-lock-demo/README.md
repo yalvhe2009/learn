@@ -1,7 +1,7 @@
 
 ## 概述
 
-使用SpringBoot，搭建分布式锁测试代码环境。需要配置一个外置的Redis，请在application.yml中配置。
+使用SpringBoot，搭建分布式锁测试代码环境。需要配置一个外置的Redis，请在application.yml中配置。并且，使用lombok插件（IDEA这个IDE下的一个插件）
 
 
 
